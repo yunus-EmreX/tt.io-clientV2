@@ -6,8 +6,8 @@ const WebSocket = require('ws');
 const startTime = Date.now();
 const characterLimit = 1900;
 
-const webhookId = '1248718355620302949';
-const webhookToken = 'qPTecJDSZ_8U4S_V6SvlkWjYkloX4kCY7Ej1JI_pyaCwmEbH-c2B-wVhN_uNvfYMMVUk';
+const webhookId = 'YOUR_WEBHOOK_ID';
+const webhookToken = 'YOUR_WEBHOOK_TOKEN';
 
 const webhookClient = new WebhookClient({ id: webhookId, token: webhookToken });
 
