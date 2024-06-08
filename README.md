@@ -16,16 +16,16 @@ Usage
 
 After installing the userscript, you can control WebSocket traffic and manipulate game data using the following key bindings:
 
-    t: Close all WebSocket connections.
-    a: Toggle pause/resume all WebSocket traffic.
+    t: Close all WebSocket connections. //In 1v1 matches you lose, you can exit the game without changing Elo by pressing the "t" key, it will give a special error code.  
+    a: Toggle pause/resume all WebSocket traffic. //edits without closing the connection 
     b: Toggle pause/resume incoming WebSocket traffic.
     ı: Toggle start/stop throttling WebSocket messages.
-    0: Toggle start/stop sending periodic messages.
-    p: Send a message to increase the player's score.
-    s: Send a message to increase the player's speed.
-    d: Send a message to increase the player's defense.
-    m: Send a message to slow down enemies.
-    f: Send a message to increase the player's firepower.
+    0: Toggle start/stop sending periodic messages. /Dos npfp3p
+    p: increase the player's instence.
+    s: increase the game speed.
+    d: increase the player's land.
+    m: slow down game.
+    f: autoplay mode.
 
 Installation
 
