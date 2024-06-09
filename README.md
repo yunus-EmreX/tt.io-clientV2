@@ -16,7 +16,7 @@ Usage
 
 After installing the userscript, you can control WebSocket traffic and manipulate game data using the following key bindings:
 
-    t: Close all WebSocket connections. //In 1v1 matches you lose, you can exit the game without changing Elo by pressing the "t" key, it will give a special error code.  
+    t: Close all WebSocket connections. //In 1v1 matches you lose, you can exit the game without no changing Elo by pressing the "t" key, it will give a special error code.  
     a: Toggle pause/resume all WebSocket traffic. //edits without closing the connection 
     b: Toggle pause/resume incoming WebSocket traffic.
     ı: Toggle start/stop throttling WebSocket messages.
