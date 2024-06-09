@@ -1,0 +1,19 @@
+a: slows down and lags the enemy's game  
+
+b: only allows outgoing data from the client side (cheat engine protection is removed)
+
+t: kicks both sides out of the game
+
+I: Allows you to exit games you lose without losing Elo with a special error code.  /1v1 bosting if enemy is not ur boostig acc use this
+
+
+
+     //Other codes are in the development phase (except 0, which requires the messiah plugin as an extra)
+     
+     not elo lose
+     
+     he and me kick the this game special server
+     
+     
+     
+        bye(:
